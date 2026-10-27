@@ -116,7 +116,7 @@ input,
 select,
 textarea {
   background: var(--surface);
-  border: 1px solid var(- -raised);
+  border: 1px solid var(--raised);
   border-radius: var(--radius);
   padding: .65rem .9rem;
 }
@@ -240,7 +240,7 @@ textarea {
 .chip.on {
   background: var(--label);
   color: var(--ink);
-  border-color: var(-- label);
+  border-color: var(--label);
   font-weight: 700;
 }
 
